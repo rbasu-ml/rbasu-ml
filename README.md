@@ -14,6 +14,8 @@ I'm passionate about collaborating on exciting data science and machine learning
 If you're looking for a data science wizard to join forces with, let's connect! Whether it's building predictive models, creating interactive visualizations, or extracting insights from vast datasets, together 
 we can create something extraordinary. Reach out to me at [rupam.sata.presiuniv@gmail.com](mailto:rupam.sata.presiuniv@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/rupam-basu-4170351b6/) to discuss our next data-driven adventure.
 
+## 🧠 Exploring the Frontier of AI: I'm currently immersing myself in training, fine-tuning, and utilizing generative AI models to automate the generation of data insights. This exciting development opens up a world of possibilities for us to create something truly extraordinary.
+
 ## ✨ Let's Transform Data into Knowledge!
 In my data science wonderland, I thrive on transforming raw data into actionable knowledge. Equipped with industry experience and a research background in Bayesian learning and modeling, I'm driven to explore
 the depths of complex datasets and extract valuable insights. From the initial data exploration to the deployment of intelligent models, I'm passionate about every step of the data science lifecycle.
@@ -28,6 +30,7 @@ the depths of complex datasets and extract valuable insights. From the initial d
 - Programming Languages: Python 🐍, R 📊, SQL 🔍
 - Big Data Tools: Apache Spark, Hadoop 🌐
 - dbt (Data Build Tool) 🛠️
+- Prompt engeniering 💡
 
 Take a look at my GitHub repositories to witness my latest data science endeavors. Here, you'll find projects showcasing my expertise in statistical learning, deep learning, Bayesian modeling, and more. 
 Through creative visualizations and meticulous analyses, I strive to unveil the true potential hidden within the data. Join me on this extraordinary journey, and together we'll make data science magic happen!
